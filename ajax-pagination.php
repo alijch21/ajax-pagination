@@ -17,7 +17,7 @@ function ajax_pagination_enqueue_scripts() {
 add_action('wp_enqueue_scripts', 'ajax_pagination_enqueue_scripts');
 /*
 test for github
-from local host
+from local host 2
 */
 /*
 change on github on website 10:45AM
