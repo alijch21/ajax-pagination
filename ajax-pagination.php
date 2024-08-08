@@ -19,6 +19,9 @@ add_action('wp_enqueue_scripts', 'ajax_pagination_enqueue_scripts');
 test for github
 from local host
 */
+/*
+change on github on website 10:45AM
+    */
 
 function ajax_pagination() {
     $paged = isset($_POST['page']) ? intval($_POST['page']) : 1;
